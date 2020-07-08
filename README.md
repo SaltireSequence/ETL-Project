@@ -152,6 +152,6 @@ Whilst all team member's extracted there data from reputable sources, all data r
 ---
 #### **Bonus** ####
 
-**Taking it to the next level:** Heesung decided to take things one step further to the brief, by producting a map that identified geographically, where the Boba Shops and Pikkachu Spawn locations were - 
+**Taking it to the next level:** Heesung decided to take things one step further to the brief, by producting a map that identified geographically, where the Boba Shops (green), Pokemon Spawn (yellow), Restaurants (red) and park locations (blue) were in the Bay area.
 
 <img src="Images/map.png" width="1000">
