@@ -116,13 +116,13 @@ Whilst all team member's extracted there data from reputable sources, all data r
   
  - **William's Transformation Notes:** the Hotel information dataset that I extracted from Kaggle looked to be a badly converted JSON to CSV file and contained alot of white space, obsolete characters and values from one column spilling over into a complete seperate columns cells. My objective from my transformation was to simply bring order and consistency to my data. I struggled initially to write the code to repetitively remove white space from different columns, however following alot of trial-and-error, I was able to write a simple for loop that iteracted through my DataFrame and (by referencing a list containing correct column headers) and replace the white space, with correct vaules. The other challenging element of my transformation, was using Arcgis to look up zipcodes for each restaurant, using that restaurants respectuve latitude and longitude. 
  
-  | TRANSFORMATION | CODE | DESCRIPTION |
-  | :- | :- | :- |
-  | **CSV to DataFrame** | `pd.DataFrame` | Converting my read CSV file into a DataFrame in preparation for Transformation
-  | **String replacement** | `str.replace` | Replacing white space
-  | **Dropping columns / cells** | `df.drop` | Removing obsolete columns and or cells.
-  | **Merging DataFrames** | `df.merge ` | Merging dataframes together, prior to JSON conversion
-  | **JSON conversion** | `to_json` | Converting DataFrame(s) / CSV to JSON
+   | TRANSFORMATION | CODE | DESCRIPTION |
+   | :- | :- | :- |
+   | **CSV to DataFrame** | `pd.DataFrame` | Converting my read CSV file into a DataFrame in preparation for Transformation
+   | **String replacement** | `str.replace` | Replacing white space
+   | **Dropping columns / cells** | `df.drop` | Removing obsolete columns and or cells.
+   | **Merging DataFrames** | `df.merge ` | Merging dataframes together, prior to JSON conversion
+   | **JSON conversion** | `to_json` | Converting DataFrame(s) / CSV to JSON
 
 - **Caitlin's Transformation Notes:** bla, bla, bla
 
