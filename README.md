@@ -148,3 +148,10 @@ Whilst all team member's extracted there data from reputable sources, all data r
     - Converting each dictionary to a JSON string<br>
     - Loading each json string into JSON format<br>
     - Inserting the data into its the MongoDB database as its own collection (resulting in “parks” and “restaurants” collections)
+    
+---
+#### **Bonus** ####
+
+**Taking it to the next level:** Heesung decided to take things one step further to the brief, by producting a map that identified geographically, where the Boba Shops and Pikkachu Spawn locations were - 
+
+<img src="Images/map.png" width="200">
