@@ -1,0 +1,131 @@
+,restaurant,address,city,state,zipcode,latitude,longitude,tel,price,rating
+0, Chipotle Mexican Grill,126 New,San Francisco,CA,94105,37.787086,-122.400212,(415) 512-8113,1,3.0
+1, In-N-Out Burger,333 Jefferson St,San Francisco,CA,94133,37.8078,-122.418383,(800) 786-1000,3,4.0
+2, Pearls Deluxe Burgers,708 Post St,San Francisco,CA,94109,37.787739,-122.413641,(415) 409-6120,3,4.0
+3, Cafe Du Soleil,200 Fillmore St,San Francisco,CA,94117,37.771303,-122.430158,(415) 934-8637,3,4.5
+4, Cafe Zazo,64 14th St,San Francisco,CA,94103,37.768642,-122.414821,(415) 626-5555,1,4.0
+5, Cove Cafe,434 Castro St,San Francisco,CA,94114,37.761957,-122.435213,(415) 626-0462,3,4.0
+6, Howards,1309 9th Ave,San Francisco,CA,94122,37.76377,-122.466425,(415) 564-4723,2,4.0
+7, Rain Tree Cafe,654 Irving St,San Francisco,CA,94122,37.764202,-122.464998,(415) 665-3633,3,4.5
+8, Revolution Cafe,3248 22nd St,San Francisco,CA,94110,37.755442,-122.419788,(415) 642-0474,2,3.5
+9, Hons Wun Tun House,648 Kearny St,San Francisco,CA,94108,37.794169,-122.404691,(415) 433-3966,3,4.0
+10, Punjab Restaurant,2838 24th St,San Francisco,CA,94110,37.752896,-122.408943,(415) 282-4011,3,4.0
+11, La Torta Gorda,2833 24th St,San Francisco,CA,94110,37.752774,-122.40867,(415) 642-9600,3,3.0
+12, Pho 2000,637 Larkin St,San Francisco,CA,94109,37.783914,-122.417772,(415) 474-1188,3,3.0
+13, Little Star Pizza,846 Divisadero St,San Francisco,CA,94117,37.777492,-122.438182,(415) 441-1118,1,3.0
+14, Burgermeister,86 Carl St,San Francisco,CA,94117,37.765881,-122.449727,(415) 566-1274,3,3.0
+15, Chez Maman,1453 18th St,San Francisco,CA,94107,37.762492,-122.397051,(415) 824-7166,3,3.0
+16, Le Zinc,4063 24th St,San Francisco,CA,94114,37.751221,-122.433213,(415) 647-9400,3,3.0
+17, Taqueria San Francisco,2794 24th St,San Francisco,CA,94110,37.752958,-122.408085,(415) 641-1770,3,3.0
+18, Pizzeria Delfina,2406 California St,San Francisco,CA,94115,37.788925,-122.434241,(415) 440-1189,1,3.0
+19, Panini,1457 Haight St,San Francisco,CA,94117,37.770036,-122.44629,(415) 552-8057,3,3.0
+20, Burgermeister,138 Church St,San Francisco,CA,94114,37.768755,-122.42914,(415) 437-2874,2,3.0
+21, B Star Cafe,127 Clement St,San Francisco,CA,94118,37.783008,-122.460684,(415) 933-9900,3,3.0
+22, Don Pistos,510 Union St,San Francisco,CA,94133,37.800682,-122.407872,(415) 395-0939,3,3.0
+23, Cotogna,490 Pacific Ave,San Francisco,CA,94133,37.797325,-122.403621,(415) 775-8508,1,3.0
+24, Ironside,680 2nd St,San Francisco,CA,94107,37.780838,-122.391103,(415) 896-1127,3,3.0
+25, Lime Tree,450 Irving St,San Francisco,CA,94122,37.764313,-122.46274,(415) 665-1415,2,3.0
+26, Spruce,3640 Sacramento St,San Francisco,CA,94118,37.787631,-122.452743,(415) 931-5100,3,4.5
+27, Stable Cafe,2128 Folsom St,San Francisco,CA,94110,37.763202,-122.415206,(415) 552-1199,3,4.0
+28, Mels Drive In,801 Mission St,San Francisco,CA,94103,37.784272,-122.404356,(415) 227-4477,3,4.0
+29, Leopolds,2400 Polk St,San Francisco,CA,94109,37.798866,-122.422185,(415) 474-2000,1,4.0
+30, Gracias Madre,2211 Mission St,San Francisco,CA,94110,37.761547,-122.419204,(415) 683-1346,3,4.5
+31, Bazaar Cafe,5927 California St,San Francisco,CA,94121,37.783954,-122.481177,(415) 831-5620,2,3.5
+32, Busters,366 Columbus Ave,San Francisco,CA,94133,37.798548,-122.407559,(415) 392-2800,3,4.0
+33, Melt,700 Columbus Ave,San Francisco,CA,94133,37.801255,-122.411441,(415) 392-9290,3,4.0
+34, Pizza Joint,2414 San Bruno Ave,San Francisco,CA,94134,37.732046,-122.405565,(415) 467-4100,1,4.0
+35, Spqr,1911 Fillmore St,San Francisco,CA,94115,37.787369,-122.433663,(415) 771-7779,3,4.5
+36, Pats Cafe,2330 Taylor St,San Francisco,CA,94133,37.803985,-122.414841,(415) 776-8735,2,4.0
+37, Il Fornaio,1265 Battery St,San Francisco,CA,94111,37.802838,-122.402063,(415) 986-0100,3,4.0
+38, Chutney Restaurant,511 Jones St,San Francisco,CA,94102,37.786022,-122.41311,(415) 931-5541,2,4.0
+39, DOSA on Fillmore,1700 Fillmore St,San Francisco,CA,94115,37.785293,-122.432935,(415) 441-3672,2,4.5
+40, Fleur De Sel,308 Kearny St,San Francisco,CA,94108,37.790955,-122.404015,(415) 956-5005,2,3.5
+41, House of Nanking,919 Kearny St,San Francisco,CA,94133,37.79648,-122.405226,(415) 421-1429,2,4.0
+42, Hunan Homes Restaurant,622 Jackson St,San Francisco,CA,94133,37.796258,-122.405603,(415) 982-2844,2,4.5
+43, La Taqueria,2889 Mission St,San Francisco,CA,94110,37.750899,-122.418143,(415) 285-7117,3,4.0
+44, La Boulange,2043 Fillmore St,San Francisco,CA,94115,37.788408,-122.43386,(415) 928-1300,2,4.0
+45, Park Gyros,1201 9th Ave,San Francisco,CA,94122,37.765736,-122.466553,(415) 731-0400,3,3.5
+46, Perrys,155 Steuart St,San Francisco,CA,94105,37.792806,-122.392288,(415) 495-6500,3,4.5
+47, Perrys,1944 Union St,San Francisco,CA,94123,37.797787,-122.431267,(415) 922-9022,3,4.5
+48, Pesce,2227 Polk St,San Francisco,CA,94109,37.797286,-122.422168,(415) 928-8025,1,4.5
+49, Puccini & Pinetti,129 Ellis St,San Francisco,CA,94102,37.785294,-122.408638,(415) 392-5500,3,4.0
+50, 21st Amendment Brewery & Restaurant,563 2nd St,San Francisco,CA,94107,37.782448,-122.392576,(415) 369-0900,2,4.0
+51, Absinthe Brasserie & Bar,398 Hayes St,San Francisco,CA,94102,37.777083,-122.422882,(415) 551-1590,3,4.0
+52, Amber India Restaurant,25 Yerba Buena Ln,San Francisco,CA,94103,37.785772,-122.404401,(415) 777-0500,2,4.5
+53, Americano,8 Mission St,San Francisco,CA,,37.79362,-122.392915,(415) 278-3777,3,3.5
+54, Anchor & Hope,83 Minna St,San Francisco,CA,94105,37.787848,-122.398812,(415) 501-9100,3,4.0
+55, Bacco,737 Diamond St,San Francisco,CA,94114,37.751483,-122.436211,(415) 282-4969,3,4.0
+56, Bamboo Restaurant,1441 Polk St,San Francisco,CA,94109,37.790123,-122.420706,(415) 775-3679,1,3.0
+57, Bar Tartine,561 Valencia St,San Francisco,CA,94110,37.763972,-122.421755,(415) 487-1600,3,4.0
+58, Beach Chalet Brewery & Restaurant,1000 Great Hwy,San Francisco,CA,94121,37.769273,-122.510407,(415) 386-8439,3,4.0
+59, Beretta,1199 Valencia St,San Francisco,CA,94110,37.753786,-122.420751,(415) 695-1199,3,4.5
+60, Caffe Bianco,39 Sutter St,San Francisco,CA,94104,37.790057,-122.401199,(415) 421-2091,3,4.0
+61, Big Lantern Restaurant,3170 16th St,San Francisco,CA,94103,37.764902,-122.423419,(415) 863-8100,1,4.0
+62, Biscuits & Blues,401 Mason St,San Francisco,CA,94102,37.787274,-122.410072,(415) 292-2583,3,3.5
+63, Blue Mermaid Chowder House & Bar,495 Jefferson St,San Francisco,CA,94109,37.807586,-122.420228,(415) 771-2222,2,4.5
+64, Bobs Steak and Chophouse,500 California St,San Francisco,CA,94104,37.793038,-122.403105,(415) 273-3085,3,4.5
+65, Burger Joint,807 Valencia St,San Francisco,CA,94110,37.759918,-122.421312,(415) 824-3494,1,4.0
+66, Burgermeister,759 Columbus Ave,San Francisco,CA,94133,37.801659,-122.412302,(415) 296-9907,2,3.5
+67, Cafe Flore,2298 Market St,San Francisco,CA,94114,37.764634,-122.432936,(415) 621-8579,2,4.0
+68, Taj Campton Place,340 Stockton St,San Francisco,CA,94108,37.789103,-122.406723,(415) 955-5555,4,4.5
+69, Capurros,498 Jefferson St,San Francisco,CA,94109,37.807697,-122.42054,(415) 771-9371,2,4.0
+70, Park Chow,1240 9th Ave,San Francisco,CA,94122,37.76524,-122.466318,(415) 665-9912,2,4.0
+71, Cioppinos,400 Jefferson St,San Francisco,CA,94109,37.807879,-122.419247,(415) 775-9311,2,4.0
+72, Cliff House,1090 Point Lobos Ave,San Francisco,CA,94121,37.778552,-122.513899,(415) 386-3330,3,4.0
+73, Colibri Mexican Bistro,438 Geary St,San Francisco,CA,94102,37.787147,-122.410492,(415) 440-2737,2,4.0
+74, Delancey Street Restaurant,600 The Embarcadero,San Francisco,CA,94107,37.784486,-122.388432,(415) 512-5179,2,4.5
+75, Crossroads Cafe,699 Delancey St,San Francisco,CA,94107,37.783018,-122.388985,(415) 836-5624,1,4.5
+76, Delfina Restaurant,3621 18th St,San Francisco,CA,94110,37.761467,-122.424315,(415) 552-4055,3,4.0
+77, Destino,1815 Market St,San Francisco,CA,94103,37.771475,-122.42375,(415) 552-4451,2,3.5
+78, Dosa,995 Valencia St,San Francisco,CA,94110,37.757075,-122.421021,(415) 642-3672,2,4.0
+79, Double Decker,465 Grove St,San Francisco,CA,94102,37.777531,-122.424033,(415) 552-8042,3,4.5
+80, Farmerbrown,25 Mason St,San Francisco,CA,94102,37.783675,-122.409249,(415) 409-3276,3,4.0
+81, Fattoush Restaurant,1361 Church St,San Francisco,CA,94114,37.749033,-122.427052,(415) 641-0678,3,4.5
+82, Fish & Farm,339 Taylor St,San Francisco,CA,94102,37.785622,-122.411263,(415) 474-3474,1,4.0
+83, Flour + Water,2401 Harrison St,San Francisco,CA,94110,37.758957,-122.412325,(415) 826-7000,3,4.5
+84, Brendas French Soul Food,652 Polk St,San Francisco,CA,94102,37.782872,-122.419023,(415) 345-8100,2,4.5
+85, Garibaldis On Presidio,347 Presidio Ave,San Francisco,CA,94115,37.788468,-122.447127,(415) 563-8841,3,4.0
+86, Hana Zen,115 Cyril Magnin St,San Francisco,CA,94102,37.785636,-122.408851,(415) 421-2101,3,4.0
+87, Hayes Street Grill,320 Hayes St,San Francisco,CA,94102,37.777147,-122.421755,(415) 863-5545,3,4.0
+88, Hog Island Oyster Co.,1 Ferry Building,San Francisco,CA,94111,37.795602,-122.393588,(415) 391-7117,3,4.0
+89, Il Pirata,2007 16th St,San Francisco,CA,94103,37.765737,-122.40677,(415) 626-2626,3,4.0
+90, Izzys Steaks & Chops,3345 Steiner St,San Francisco,CA,94123,37.800199,-122.437884,(415) 563-0487,1,4.5
+91, Johnny Rockets,81 Jefferson St,San Francisco,CA,,37.808393,-122.413713,(415) 693-9120,3,4.5
+92, Boulange,2310 Polk St,San Francisco,CA,94109,37.798,-122.422102,(415) 345-1107,2,4.0
+93, Lahore Karahi,612 Ofarrell St,San Francisco,CA,94109,37.785611,-122.414996,(415) 567-8603,3,4.0
+94, Lefty ODouls,333 Geary St,San Francisco,CA,94102,37.787146,-122.408714,(415) 982-8900,3,4.0
+95, Limon Restaurant,524 Valencia St,San Francisco,CA,94110,37.764434,-122.421972,(415) 252-0918,3,4.5
+96, Loris Diner,336 Mason St,San Francisco,CA,94102,37.786826,-122.409602,(415) 392-8646,1,4.0
+97, Ls Caffe,2871 24th St,San Francisco,CA,94110,37.752688,-122.40959,(415) 206-0274,3,4.0
+98, Luce,888 Howard St,San Francisco,CA,94103,37.781872,-122.40479,(415) 616-6566,2,3.5
+99, Magnolia Pub and Brewery,1398 Haight St,San Francisco,CA,94117,37.770276,-122.445238,(415) 864-7468,3,4.5
+100, Marnee Thai,2225 Irving St,San Francisco,CA,94122,37.763281,-122.481814,(415) 665-9500,2,4.5
+101, Mels Drive In,1050 Van Ness Ave,San Francisco,CA,94109,37.785519,-122.420949,(415) 292-6357,2,4.0
+102, Memphis Minnies BBQ Joint,576 Haight St,San Francisco,CA,94117,37.772058,-122.431702,(415) 864-7675,2,4.5
+103, Nanis Coffee,2739 Geary Blvd,San Francisco,CA,94118,37.782187,-122.448613,(415) 928-8817,3,4.5
+104, Cesarios,601 Sutter St,San Francisco,CA,94102,37.788963,-122.410344,(415) 441-9898,3,4.0
+105, Nopa,560 Divisadero St,San Francisco,CA,94117,37.774839,-122.437615,(415) 864-8643,3,4.0
+106, Original US Restaurant,515 Columbus Ave,San Francisco,CA,94133,37.799702,-122.409446,(415) 397-5200,1,4.0
+107, OSHA Thai Restaurant,149 2nd St,San Francisco,CA,94105,37.787423,-122.398881,(415) 278-9991,3,4.0
+108, OSHA Thai,819 Valencia St,San Francisco,CA,94110,37.759777,-122.42126,(415) 826-7738,2,4.0
+109, Pacific Cafe,7000 Geary Blvd,San Francisco,CA,94121,37.779826,-122.494535,(415) 387-7091,3,4.5
+110, Pacific Catch,1200 9th Ave,San Francisco,CA,94122,37.765773,-122.466268,(415) 504-6905,2,4.0
+111, Pig & Whistle Bar,2801 Geary Blvd,San Francisco,CA,94118,37.782054,-122.449182,(415) 885-4779,1,4.0
+112, Piperade,1015 Battery St,San Francisco,CA,94111,37.800685,-122.401678,(415) 391-2555,3,4.0
+113, Pizzeria Delfina,3611 18th St,San Francisco,CA,94110,37.761518,-122.424233,(415) 437-6800,2,4.5
+114, Plouf,40 Belden Pl,San Francisco,CA,94104,37.791286,-122.403731,(415) 986-6491,2,4.0
+115, LuLu,816 Folsom St,San Francisco,CA,94107,37.781789,-122.401821,(415) 495-5775,3,4.0
+116, R & G Lounge,631 Kearny St,San Francisco,CA,94108,37.794096,-122.404829,(415) 982-7877,2,3.5
+117, Roccos Cafe,1131 Folsom St,San Francisco,CA,94103,37.775999,-122.408476,(415) 554-0522,2,4.5
+118, Roses Cafe,2298 Union St,San Francisco,CA,94123,37.797011,-122.437027,(415) 775-2200,2,4.5
+119, Saha,1075 Sutter St,San Francisco,CA,94109,37.787891,-122.418058,(415) 345-9547,2,4.5
+120, Savor Restaurant,3913 24th St,San Francisco,CA,94114,37.751454,-122.430029,(415) 282-0344,3,4.5
+121, Sears Fine Food,439 Powell St,San Francisco,CA,94102,37.788773,-122.40863,(415) 986-0700,3,4.0
+122, Swan Oyster Depot,1517 Polk St,San Francisco,CA,94109,37.790904,-122.420848,(415) 673-1101,3,4.0
+123, Johns Snack and Deli,40 Battery St,San Francisco,CA,94111,37.791695,-122.399585,(415) 434-4634,1,3.5
+124, Squat & Gobble Cafe,2263 Chestnut St,San Francisco,CA,94123,37.800168,-122.440531,(415) 441-2200,3,4.5
+125, Sugar Cafe,679 Sutter St,San Francisco,CA,94102,37.788817,-122.41151,(415) 441-5678,2,4.5
+126, Suppenküche,525 Laguna St,San Francisco,CA,94102,37.776288,-122.426305,(415) 252-9289,3,4.0
+127, Tadich Grill,240 California St,San Francisco,CA,94111,37.793381,-122.399367,(415) 391-1849,3,4.0
+128, Buena Vista Cafe,2765 Hyde St,San Francisco,CA,94109,37.806507,-122.420664,(415) 474-5044,2,4.0
+129, Roots,466 Bush St,San Francisco,CA,94108,37.790748,-122.405187,(415) 659-0349,3,4.0
