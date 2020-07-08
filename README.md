@@ -58,7 +58,7 @@ Consensus was therefore reached, that each team member would go through the ETL 
 
 Once each team member had successfully extracted, transformed and 'test' loaded their datasets into MongoDB, Kathryn then took the helm of the load element of the project, by uploading each team member's dataset JSON file as individual collections in a master MongoDB database.
 
-#### **Extraction** ####
+#### **EXTRACTION** ####
 In total the team extracted 6 datasets, from 3 sources, in 2 formats:
 
  - **6 datasets:** stored in the [Input Folder](https://github.com/SaltireSequence/ETL-Project/tree/master/Inputs)
@@ -93,7 +93,7 @@ The team describes individually, their decision behind the extract of each respe
  
  - **Kathryn Extraction Notes:** for my data, I chose to locate all of the hotels that are located in each of the zip codes in the bay area. I used the Google Places api to locate hotels within the approximately 30 miles from the latitude and longitude coordinates corresponding to each zip code. This generated about 20 hotels per zip code, of which there were 50 in the dataset.
 
-#### **Transformation** ####
+#### **TRANSFORMATION** ####
 Whilst all team member's extracted there data from reputable sources, all data required a degree of data cleanup and analysis. The following transformations took place:
 
 - **Heesung Transformation Notes:** Once I had loaded my files, as CVS into DataFrames, I performed a series of tasks that included:
@@ -134,7 +134,7 @@ Whilst all team member's extracted there data from reputable sources, all data r
   | **DataType conversion** | `.astype(int) ` | Converting DataType, prior to JSON conversion
   | **JSON conversion** | `to_json` | Converting DataFrame(s) / CSV to JSON
 
-#### **Loading** ####
+#### **LOADING** ####
 
 **Loading all datasets:** Kathryn volunteered to take all our JSON files are build the team database. Here are the steps she took:
 
