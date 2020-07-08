@@ -1,5 +1,5 @@
 # San Francisco Datasets (ETL-Project)
----
+
 ### **Objective:**
 #### The purpose of this project is to collaborate as a team to:
 * **Extract** - 4 different datasets (in at least 2 formats)
@@ -58,7 +58,7 @@ Consensus was therefore reached, that each team member would go through the ETL 
 
 Once each team member had successfully extracted, transformed and 'test' loaded their datasets into MongoDB, Kathryn then took the helm of the load element of the project, by uploading each team member's dataset JSON file as individual collections in a master MongoDB database.
 
-#### **Extraction** ####
+#### **EXTRACTION** ####
 In total the team extracted 6 datasets, from 3 sources, in 2 formats:
 
  - **6 datasets:** stored in the [Input Folder](https://github.com/SaltireSequence/ETL-Project/tree/master/Inputs)
@@ -93,10 +93,10 @@ The team describes individually, their decision behind the extract of each respe
  
  - **Kathryn Extraction Notes:** for my data, I chose to locate all of the hotels that are located in each of the zip codes in the bay area. I used the Google Places api to locate hotels within the approximately 30 miles from the latitude and longitude coordinates corresponding to each zip code. This generated about 20 hotels per zip code, of which there were 50 in the dataset.
 
-#### **Transformation** ####
+#### **TRANSFORMATION** ####
 Whilst all team member's extracted there data from reputable sources, all data required a degree of data cleanup and analysis. The following transformations took place:
 
- - **Heesung Transformation Notes:** Once I had loaded my files, as CVS into DataFrames, I performed a series of tasks that included:
+- **Heesung Transformation Notes:** Once I had loaded my files, as CVS into DataFrames, I performed a series of tasks that included:
  
   **(i)** Removing irrelevant to the project<br>
   **(ii)** Using Geopy to find zip codes, using longitude and latitude<br>
@@ -104,25 +104,25 @@ Whilst all team member's extracted there data from reputable sources, all data r
   **(iv)** Removing rows containing missing information<br>
   **(v)** Saving the cleansed DataSets, firstly as CSV and secondly as a JSON file
 
-  | TRANSFORMATION | CODE | DESCRIPTION |
-  | :- | :- | :- |
-  | **DataType conversion** | `.astype(int) ` | Checking data volume for each Pokemon
-  | **Filtering** | `.loc[pokemon_df["name"]=="Pikachu",:]` | Filtering on a specific   character
-  | **Index reset** | `.reset_index(drop=True)` | Resetting the index on a DataFrame
-  | **Geopy query** | `geopy.Nominatim` | Used to query the zip codes of corresponding longitute<br> and latitude
-  | **Counting** | `.value_counts()` | Counting instances of certain Pokemon characters
-  | **Purging** | `['Unnamed: 0']` | Deleting unnecessary columns
-  | **JSON conversion** | `to_json` | Converting DataFrame(s) / CSV to JSON
+   | TRANSFORMATION | CODE | DESCRIPTION |
+   | :- | :- | :- |
+   | **DataType conversion** | `.astype(int) ` | Checking data volume for each Pokemon
+   | **Filtering** | `.loc[pokemon_df["name"]=="Pikachu",:]` | Filtering on a specific   character
+   | **Index reset** | `.reset_index(drop=True)` | Resetting the index on a DataFrame
+   | **Geopy query** | `geopy.Nominatim` | Used to query the zip codes of corresponding longitute<br> and latitude
+   | **Counting** | `.value_counts()` | Counting instances of certain Pokemon characters
+   | **Purging** | `['Unnamed: 0']` | Deleting unnecessary columns
+   | **JSON conversion** | `to_json` | Converting DataFrame(s) / CSV to JSON
   
-  - **William's Transformation Notes:** the Hotel information dataset that I extracted from Kaggle looked to be a badly converted JSON to CSV file and contained alot of white space, obsolete characters and values from one column spilling over into a complete seperate columns cells. My objective from my transformation was to simply bring order and consistency to my data. I struggled initially to write the code to repetitively remove white space from different columns, however following alot of trial-and-error, I was able to write a simple for loop that iteracted through my DataFrame and (by referencing a list containing correct column headers) and replace the white space, with correct vaules. The other challenging element of my transformation, was using Arcgis to look up zipcodes for each restaurant, using that restaurants respectuve latitude and longitude. 
+ - **William's Transformation Notes:** the Hotel information dataset that I extracted from Kaggle looked to be a badly converted JSON to CSV file and contained alot of white space, obsolete characters and values from one column spilling over into a complete seperate columns cells. My objective from my transformation was to simply bring order and consistency to my data. I struggled initially to write the code to repetitively remove white space from different columns, however following alot of trial-and-error, I was able to write a simple for loop that iteracted through my DataFrame and (by referencing a list containing correct column headers) and replace the white space, with correct vaules. The other challenging element of my transformation, was using Arcgis to look up zipcodes for each restaurant, using that restaurants respectuve latitude and longitude. 
  
-  | TRANSFORMATION | CODE | DESCRIPTION |
-  | :- | :- | :- |
-  | **CSV to DataFrame** | `pd.DataFrame` | Converting my read CSV file into a DataFrame in preparation for Transformation
-  | **String replacement** | `str.replace` | Replacing white space
-  | **Dropping columns / cells** | `df.drop` | Removing obsolete columns and or cells.
-  | **Merging DataFrames** | `df.merge ` | Merging dataframes together, prior to JSON conversion
-  | **JSON conversion** | `to_json` | Converting DataFrame(s) / CSV to JSON
+   | TRANSFORMATION | CODE | DESCRIPTION |
+   | :- | :- | :- |
+   | **CSV to DataFrame** | `pd.DataFrame` | Converting my read CSV file into a DataFrame in preparation for Transformation
+   | **String replacement** | `str.replace` | Replacing white space
+   | **Dropping columns / cells** | `df.drop` | Removing obsolete columns and or cells.
+   | **Merging DataFrames** | `df.merge ` | Merging dataframes together, prior to JSON conversion
+   | **JSON conversion** | `to_json` | Converting DataFrame(s) / CSV to JSON
 
 - **Caitlin's Transformation Notes:** bla, bla, bla
 
@@ -134,7 +134,7 @@ Whilst all team member's extracted there data from reputable sources, all data r
   | **DataType conversion** | `.astype(int) ` | Converting DataType, prior to JSON conversion
   | **JSON conversion** | `to_json` | Converting DataFrame(s) / CSV to JSON
 
-#### **Loading** ####
+#### **LOADING** ####
 
 **Loading all datasets:** Kathryn volunteered to take all our JSON files are build the team database. Here are the steps she took:
 
