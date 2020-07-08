@@ -89,7 +89,7 @@ The team describes individually, their decision behind the extract of each respe
 
  - **William Extraction Notes:** as a budding restaurant goer (and as someone who is relatively new the the Bay Area) I wanted to find data that represented restaurant data in the Bay Area, that might make for interesting analysis. I found a dataset on Kaggle that looked like it had been neglected. It is information for 150 restaurants, including address, cuisine type, price point and importantly the longitude and latitude of the restaurant. My extraction only involved downloading my dataset from Kaggle, before beginning transformation.
  
- - **Caitlin Extraction Notes:** bla, bla, bla, bla
+ - **Caitlin Extraction Notes:** I relied on two seperate CSV files, to make up the extraction stage of this project; the `SFZ.csv` contained information on San Francisco neighbourhoods (with corresponding zip codes), whilst the `SF_park_Scores.csv` contained information on parks within the San Francisco area, including a score for each respective Park. Both these source data files derived from Kaggle. Extract included (i) downloading each respective CSV file (ii) and writing the CSV files to Pandas.
  
  - **Kathryn Extraction Notes:** for my data, I chose to locate all of the hotels that are located in each of the zip codes in the bay area. I used the Google Places api to locate hotels within the approximately 30 miles from the latitude and longitude coordinates corresponding to each zip code. This generated about 20 hotels per zip code, of which there were 50 in the dataset.
 
@@ -124,7 +124,7 @@ Whilst all team member's extracted there data from reputable sources, all data r
    | **Merging DataFrames** | `df.merge ` | Merging dataframes together, prior to JSON conversion
    | **JSON conversion** | `to_json` | Converting DataFrame(s) / CSV to JSON
 
-- **Caitlin's Transformation Notes:** bla, bla, bla
+- **Caitlin's Transformation Notes:** The data sets both contained some unnecessary and hard-to-read information. The transformation process consisted of cleaning it for clear, functional analysis. My transformation steps are as follows - deleted unnecessary columns, dropped duplicate rows, dropped rows with no zip/lat/long data, formated columns for clarity.
 
   | TRANSFORMATION | CODE | DESCRIPTION |
   | :- | :- | :- |
