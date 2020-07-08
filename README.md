@@ -1,5 +1,5 @@
 # San Francisco Datasets (ETL-Project)
----
+
 ### **Objective:**
 #### The purpose of this project is to collaborate as a team to:
 * **Extract** - 4 different datasets (in at least 2 formats)
