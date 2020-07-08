@@ -85,6 +85,8 @@ The team describes individually, their decision behind the extract of each respe
         - long: Longitude of the despawn location
         - encounter_ms: Time encountered with Pokemon
         - diappear_ms:The time when Pokemon was disappered
+        
+        <img src="Images/pikachu.png" width="200">
 
 
  - **William Extraction Notes:** as a budding restaurant goer (and as someone who is relatively new the the Bay Area) I wanted to find data that represented restaurant data in the Bay Area, that might make for interesting analysis. I found a dataset on Kaggle that looked like it had been neglected. It is information for 150 restaurants, including address, cuisine type, price point and importantly the longitude and latitude of the restaurant. My extraction only involved downloading my dataset from Kaggle, before beginning transformation.
