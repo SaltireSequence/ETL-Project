@@ -154,4 +154,4 @@ Whilst all team member's extracted there data from reputable sources, all data r
 
 **Taking it to the next level:** Heesung decided to take things one step further to the brief, by producting a map that identified geographically, where the Boba Shops and Pikkachu Spawn locations were - 
 
-<img src="Images/map.png" width="200">
+<img src="Images/map.png" width="1000">
