@@ -96,7 +96,7 @@ The team describes individually, their decision behind the extract of each respe
 #### **Transformation** ####
 Whilst all team member's extracted there data from reputable sources, all data required a degree of data cleanup and analysis. The following transformations took place:
 
- - **Heesung Transformation Notes:** Once I had loaded my files, as CVS into DataFrames, I performed a series of tasks that included:
+- **Heesung Transformation Notes:** Once I had loaded my files, as CVS into DataFrames, I performed a series of tasks that included:
  
   **(i)** Removing irrelevant to the project<br>
   **(ii)** Using Geopy to find zip codes, using longitude and latitude<br>
